@@ -11,7 +11,7 @@ use Vresh\TwilioBundle\Service\TwilioWrapper,
  * @author Fridolin Koch <info@fridokoch.de>
  *
  */
-class TwilioWrapperTest extends \PHPUnit_Framework_TestCase
+class TwilioWrapperTest extends \PHPUnit\Framework\TestCase
 {
     /**
      * @test
