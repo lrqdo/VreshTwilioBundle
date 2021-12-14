@@ -9,7 +9,7 @@ use Vresh\TwilioBundle\DependencyInjection\Configuration;
  * @author Fridolin Koch <info@fridokoch.de>
  *
  */
-class ConfigurationTest extends \PHPUnit_Framework_TestCase
+class ConfigurationTest extends \PHPUnit\Framework\TestCase
 {
     /**
      * @test
